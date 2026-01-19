@@ -25,7 +25,7 @@ chmod +x config.sh embed.sh iframe.sh Palomitas.sh search.sh
 6. ## Interfaz CLI
 
 
-![interfaz(https://github.com/IamJony/semi-nord-theme-bluefish/blob/main/menu%201%20palomitas.png?raw=true)
+![interfaz](https://github.com/IamJony/semi-nord-theme-bluefish/blob/main/menu%201%20palomitas.png?raw=true)
 
 ![interfaz2](https://github.com/IamJony/semi-nord-theme-bluefish/blob/main/menu%202.png?raw=true)
 
