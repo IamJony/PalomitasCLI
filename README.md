@@ -24,6 +24,7 @@ chmod +x config.sh embed.sh iframe.sh Palomitas.sh search.sh
 ```
 6. ## Interfaz CLI
 
+Para usar el script solo ejecute en la terminal `./Palomitas.sh`
 
 ![interfaz](https://github.com/IamJony/semi-nord-theme-bluefish/blob/main/menu%201%20palomitas.png?raw=true)
 
