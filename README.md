@@ -21,7 +21,7 @@ cd PalomitasCLI
 
 # Dar permisos de ejecución a los scripts
 chmod +x config.sh embed.sh iframe.sh Palomitas.sh search.sh
-
+```
 6. ## Interfaz CLI
 
 
